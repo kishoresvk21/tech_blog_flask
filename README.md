@@ -1,1 +1,1 @@
-# tech_blog_flask
+# tech_blog_flask app
